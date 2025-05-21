@@ -20,7 +20,7 @@ const categoriaShema = mongoose.Schema(
 
 },
 {
-    timestamsp:true, 
+    timestamps:true, 
 }
 );
 
